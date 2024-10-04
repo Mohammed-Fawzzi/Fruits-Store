@@ -1,5 +1,5 @@
 import React from "react";
-import BrandImage from "../../assets/fruits-splash.png";
+import BrandImage from "../../assets/fruits-splash.webp";
 import { motion } from "framer-motion";
 import { FadeUp } from "../../utility/animation";
 

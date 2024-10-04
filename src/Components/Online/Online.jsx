@@ -1,5 +1,5 @@
 import React from "react";
-import OnlineImage from "../../assets/fruit-plate.png";
+import OnlineImage from "../../assets/fruit-plate.webp";
 import { motion } from "framer-motion";
 import { FadeUp } from "../../utility/animation";
 

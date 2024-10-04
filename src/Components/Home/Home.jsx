@@ -1,7 +1,7 @@
 import React from "react";
 import { IoBagHandleOutline } from "react-icons/io5";
-import Plate from "../../assets/_fruit-plate.png";
-import Leaf from "../../assets/leaf.png";
+import Plate from "../../assets/_fruit-plate.webp";
+import Leaf from "../../assets/leaf.webp";
 import { motion } from "framer-motion";
 import { FadeRight } from "../../utility/animation";
 

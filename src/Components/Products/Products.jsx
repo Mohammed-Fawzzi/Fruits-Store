@@ -1,8 +1,8 @@
 import React from 'react'
-import apple from '../../assets/apple.png'
-import orange from '../../assets/orange.png'
-import avocado from '../../assets/avocado.png'
-import cherry from '../../assets/cherry.png'
+import apple from '../../assets/apple.webp'
+import orange from '../../assets/orange.webp'
+import avocado from '../../assets/avocado.webp'
+import cherry from '../../assets/cherry.webp'
 import { motion } from 'framer-motion'
 import { FadeLeft } from '../../utility/animation'
 
