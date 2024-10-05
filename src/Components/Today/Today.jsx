@@ -1,5 +1,5 @@
 import React from "react";
-import bannerImage from "../../assets/banner-bg.jpg";
+import bannerImage from "../../assets/banner-bg.webp";
 import { motion } from "framer-motion";
 import { FadeLeft } from "../../utility/animation";
 
