@@ -26,4 +26,4 @@ Fresh Fruits: is a web application designed to help users explore a wide variety
 
 ## Live Demo
 
-Check out the live demo [here](https://mohammed-fawzzi.github.io/Fresh-Fruits/).
+Check out the live demo [here](https://mohammed-fawzzi.github.io/Fruits-Store/).
